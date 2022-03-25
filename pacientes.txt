@@ -1,0 +1,7 @@
+Juan,23,2
+Ana,20,3
+Luis,14,1
+Lola,22,3
+Pedro,16,4
+Juana,45,3
+Enrique,24,2
